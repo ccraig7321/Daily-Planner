@@ -1,7 +1,3 @@
-/* *{
-  outline: 1px dotted black
-} */
-
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -72,4 +68,13 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+/* Added to define save button */
+.fa-save:before{
+  font-size:40px;
+  color:white;
+}
+/* Added to define save button */
+.fa{
+  margin-top:20px;
 }
