@@ -17,7 +17,13 @@ The user can interact with the planner by adding in tasks at the needed time, th
 
 The functionality of the planner is based around the usage of Moment JS that is used to not only indicate the hour of the day, but to also set the date in the header of the page. Below is a visual representation of the daily planner. During the hours of 9 AM - 5 PM, the calendar displays red for the current hour and green for anytime in the future. For this example, the blocks are grey to show that the work has ended.
 
-![IMAGE of END OF DAILY PLANNER](/Users/chelseycraig/Desktop/code/Homework/Daily-Planner/README.md)
+![IMAGE of END OF DAILY PLANNER](Assets/DailyPlanner.png)
+___
+
+## Link to Project
+
+https://ccraig7321.github.io/Daily-Planner/
+
 ___
 
 ## Technologies
